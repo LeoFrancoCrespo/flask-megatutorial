@@ -1,0 +1,8 @@
+# uses pip
+
+pip install flask
+
+# apis used
+# uses .flaskenv file in top-level project directory 
+# to initialize environment variables for flask commands
+pip install python-dotenv
