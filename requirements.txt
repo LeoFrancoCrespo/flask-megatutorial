@@ -6,3 +6,4 @@ pip install flask
 # uses .flaskenv file in top-level project directory 
 # to initialize environment variables for flask commands
 pip install python-dotenv
+pip install flask-wtf
